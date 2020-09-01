@@ -1,0 +1,45 @@
+body {
+    line-height: 2em;
+    text-align: center;
+    font-size: 20px;
+    background-color: powderblue;
+}
+
+.fun-facts {
+    width: 600px;
+    margin-left: 420px;
+}
+
+h1 {
+    border: 5px dotted #000000;
+    width: 650px;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.home {
+    text-align: right;
+    margin-right: 20px;
+}
+
+a:link {
+    color: deeppink;
+}
+
+a:visited {
+    color: forestgreen;
+}
+
+.screen {
+    position: relative;
+}
+
+.screen h3 {
+    position: absolute;
+    left: 22%;
+    bottom: 5%;
+}
